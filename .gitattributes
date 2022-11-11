@@ -1,0 +1,4 @@
+.git/
+.idea/
+meto/__pycache__
+DiabetesPrediction/__pycache__
